@@ -1,0 +1,8 @@
+npm -v
+npm init
+npm index
+npm i express
+npm i 
+npm i -g nodemon
+nodmon index.js
+npm i @angular/cli
